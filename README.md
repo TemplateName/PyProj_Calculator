@@ -1,6 +1,6 @@
 <h1>Python GUI Calculator</h1>
 
- ### [Project Inspiration](youtube.com)
+ ### [Project Inspiration](https://www.youtube.com)
 
 <h2>Description</h2>
 Project consists of creating a simple Python script that creates an instance of a simple calcultor, where the user can click on the buttons to interact with. This project is to demonstrate my Python skills in importing a library, creating display and operational functions, and handling multiple edge cases. In coding, of course there will be a lot of edge cases to make the code robust and some design trade offs. This code that I have uploaded is sufficent for me and I might make some minor adjustments in the future. I hope my documentation is clear!
