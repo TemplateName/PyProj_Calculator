@@ -19,11 +19,11 @@ Project consists of creating a simple Python script that creates an instance of 
 
 <p align="center">
 Connect to Linux box: <br/>
-<img src="https://github.com/TemplateName/PhotoRepo/blob/main/Simple_Ransomware1.png" height="80%" width="80%" alt="Initial Step"/>
+<img src="https://github.com/TemplateName/PhotoRepo/blob/main/myCalculator.png" height="80%" width="80%" alt="Initial Step"/>
 <br />
 <br />
 Create some files:  <br/>
-<img src="https://github.com/TemplateName/PhotoRepo/blob/main/Simple_Ransomware2.png" height="80%" width="80%" alt="Creating content within the directory"/>
+<img src="https://github.com/TemplateName/PhotoRepo/blob/main/CalculatorReference.png" height="80%" width="80%" alt="Creating content within the directory"/>
 <br />
 <br />
 Encoding script: <br/>
