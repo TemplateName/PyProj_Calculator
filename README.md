@@ -15,7 +15,7 @@ Project consists of creating a simple Python script that creates an instance of 
 
 - <b> Python IDLE </b> (3.10 64-bit)
 
-<h2>Program walk-through: I STILL NEED TO DO THIS! </h2>
+<h2>Program walk-through: work in progress* </h2>
 
 <p align="center">
 What my calculator GUI looks like: <br/>
