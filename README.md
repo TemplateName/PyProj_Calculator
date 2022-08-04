@@ -18,28 +18,12 @@ Project consists of creating a simple Python script that creates an instance of 
 <h2>Program walk-through: I STILL NEED TO DO THIS! </h2>
 
 <p align="center">
-Connect to Linux box: <br/>
-<img src="https://github.com/TemplateName/PhotoRepo/blob/main/myCalculator.png" height="80%" width="80%" alt="Initial Step"/>
+What my calculator GUI looks like: <br/>
+<img src="https://github.com/TemplateName/PhotoRepo/blob/main/myCalculator.PNG" height="80%" width="80%" alt="myCalculator"/>
 <br />
 <br />
-Create some files:  <br/>
-<img src="https://github.com/TemplateName/PhotoRepo/blob/main/CalculatorReference.png" height="80%" width="80%" alt="Creating content within the directory"/>
-<br />
-<br />
-Encoding script: <br/>
-<img src="https://github.com/TemplateName/PhotoRepo/blob/main/Simple_Ransomware_Encrypting_code.png" height="80%" width="80%" alt="Malware code"/>
-<br />
-<br />
-Result of the contents of files after running the malware:  <br/>
-<img src="https://github.com/TemplateName/PhotoRepo/blob/main/Simple_Ransomware4.png" height="80%" width="80%" alt="Effect of the malware code"/>
-<br />
-<br />
-Decoding script:  <br/>
-<img src="https://github.com/TemplateName/PhotoRepo/blob/main/Simple_Ransomware_Decrypting_code.png" height="80%" width="80%" alt="Solution to restoring files back"/>
-<br />
-<br />
-Restore files with failed attempt and successful attempt:  <br/>
-<img src="https://github.com/TemplateName/PhotoRepo/blob/main/Simple_Ransomware6.png" height="80%" width="80%" alt="Restored files"/>
+Referenced Google's calculator's functionality:  <br/>
+<img src="https://github.com/TemplateName/PhotoRepo/blob/main/CalculatorReference.PNG" height="80%" width="80%" alt="Google's Calculator"/>
 </p>
 
 <!--
